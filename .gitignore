@@ -15,6 +15,7 @@ html
 **/.settings/
 **/bin/
 
+
 # gradle
 .gradle
 **/build
